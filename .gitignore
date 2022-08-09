@@ -1,0 +1,19 @@
+# pycache
+__pycache__
+
+# datasets
+*.zip
+AgeDB*
+CASIA*
+CFP-FP*
+LFW*
+VGG_Face2*
+
+# training weight files and log files
+pth_*
+saving_*
+test_*
+train_*
+
+# txt file
+*.txt
