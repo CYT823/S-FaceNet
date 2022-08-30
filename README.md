@@ -44,3 +44,4 @@
 ### Reference
 - Andrew G. Howard et al., "Mobilenets: Efficient convolutional neural networks for mobile vision applications," arXiv preprint arXiv:1704.04861, 2017.
 - Sheng Chen et al., "Mobilefacenets: Efficient cnns for accurate real-time face verification on mobile devices," Chinese Conference on Biometric Recognition, 2018.
+- xuexingyu24's MobileFaceNet Tutorial Pytorch Repository, https://github.com/xuexingyu24/MobileFaceNet_Tutorial_Pytorch
